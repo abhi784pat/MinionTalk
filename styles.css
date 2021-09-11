@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Tangerine');
+@import url('https://fonts.googleapis.com/css?family=Lobster');
 
 * {
     box-sizing: border-box;
@@ -12,7 +12,7 @@
 
 body {
     margin: 0;
-    font-family: 'Tangerine';
+    font-family: 'Lobster';
     color: #333333;
 }
 
@@ -42,7 +42,7 @@ button {
     border: none;
     margin: 1rem 0rem;
     padding: 1rem 2rem;
-    font-family: 'Tangerine';
+    font-family: 'Lobster';
     font-size: large;
 }
 
