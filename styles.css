@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Tangerine');
 
 * {
     box-sizing: border-box;
@@ -12,7 +12,7 @@
 
 body {
     margin: 0;
-    font-family: sans-serif, cursive;
+    font-family: 'Tangerine';
     color: #333333;
 }
 
@@ -42,7 +42,7 @@ button {
     border: none;
     margin: 1rem 0rem;
     padding: 1rem 2rem;
-    font-family: 'sans-serif', cursive;
+    font-family: 'Tangerine';
     font-size: large;
 }
 
